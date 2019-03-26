@@ -1,2 +1,2 @@
 # DearNeuroscience
-teaser page for Dear Neuroscience event series
+webpage for Dear Neuroscience event series

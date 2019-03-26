@@ -55,7 +55,7 @@ Many thanks to the following collaborators who helped bring this concept to life
 
 | April Cashin-Garbutt | Communications Manager | [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/) |
 | Helen Craig  | Public Engagement Manager | [UCL Culture](https://www.ucl.ac.uk/culture/) |
-| Goncalo Lopes | CEO | [NeuroGears](https://neurogears.org/) |
+| Goncalo Lopes | Director | [NeuroGears](https://neurogears.org/) |
 | Joana Neto | Post-doctoral Researcher | [CENIMAT](https://www.cenimat.fct.unl.pt/) and [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/) |
 | Lory Calcaterra | PhD Candidate | [Intelligent Systems Lab](http://www.kampff-lab.org/) |
 | Adam Kampff  | Principle Investigator | [Intelligent Systems Lab](http://www.kampff-lab.org/) |
