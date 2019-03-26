@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Cuttle Shuttle"
+title                    : "Dear Neuroscience"
 title_separator          : "|"
-name                     : "Cuttle Shuttle"
-description              : "From February 2014 to February 2015, Danbee Kim collaborated with the Marine Biology Lab at Woods Hole, USA, to study cuttlefish, an invertebrate marine animal related to octopus and squid, from the perspective of neuroscience. My primary goal was to learn about their behaviour, how to take care of them, and how to modify our lab’s behaviour experiment setups for rats to work with cuttlefish."
+name                     : "Dear Neuroscience"
+description              : "'Dear Neuroscience' is an event series that explores new ways of conducting neuroscience research by bringing together scientists, artists, parents, and children to co-create sensory explorations of neural phenomena 'in the wild'."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -20,7 +20,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : everymind # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : DearNeuro # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
