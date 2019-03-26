@@ -27,17 +27,19 @@ gallery:
 
 {% include toc icon="anchor" title="Dear Neuroscience" %}
 
+# Upcoming event: "Touch and Proprioception"
+
+Our next Dear Neuroscience event is themed around our senses of touch and proprioception, and will be held on **Friday, 24 May 2019, from noon to 5pm at the [Sainsbury Wellcome Centre for Neural Circuits and Behaviour](https://goo.gl/maps/BtRHagPzAuF2)**. We want to explore questions from YOU and other "folks on the street" about our abilities to not only move, touch, and feel the world around us, but also our ability to know where our body parts are without actively looking at them - for instance, can you clap your hands without *looking at* your hands?
+
+This event will be a festival-style gathering, with performances, interactive installations, small-group discussions, games, workshops, and more! Feel free to drop in for one or two activities or stay for the whole 5 hours. School groups and families are more than welcome!
+
+## What is "Dear Neuroscience"?
+
 "Dear Neuroscience" is an event series that explores new ways of conducting neuroscience research by **bringing together scientists, artists, teachers, clinicians, parents, and children to co-create sensory explorations of neural phenomena "in the wild"**. We want to ask our audience, "What's something in your daily life that makes you wonder about brains?" 
 
 We believe that neuroscience research can learn a lot from projects that involve our audience at all stages of the research process: picking the questions to study, designing the study setup, running the experiment, analysing the results, and discussing our conclusions. Changing our tactics as a neuroscience community in this way allows us to **harness the many intimate and personal experiences with brains that every living person has developed while trying to navigate a complex and highly interconnected society**. This intuition for how brains work "in the real world" is an enormously valuable perspective that is difficult to access in a traditional neuroscience laboratory. 
 
 **We hope to access this "beyond the lab" perspective through the Dear Neuroscience events**. A fundamental goal of each event is to generate a list of testable hypotheses which can guide or expand existing research projects, or motivate new research programmes based on well-documented interest and/or robust anecdotal evidence. We also hope to connect potential collaborators who are looking for a **community of researchers eager to engage in broad topics of study that require expertise from a variety of disciplines**. 
-
-## Upcoming event topic: "Touch and Proprioception"
-
-Our next Dear Neuroscience event is themed around our senses of touch and proprioception, and will be held on **Friday, 24 May 2019, from noon to 5pm at the [Sainsbury Wellcome Centre for Neural Circuits and Behaviour](https://goo.gl/maps/BtRHagPzAuF2)**. We want to explore questions from YOU and other "folks on the street" about our abilities to not only move, touch, and feel the world around us, but also our ability to know where our body parts are without actively looking at them - for instance, can you clap your hands without *looking at* your hands?
-
-This event will be a festival-style gathering, with performances, interactive installations, small-group discussions, games, workshops, and more! Feel free to drop in for one or two activities or stay for the whole 5 hours. School groups and families are more than welcome!
 
 ## Participate! 
 
