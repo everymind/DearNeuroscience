@@ -29,7 +29,7 @@ gallery:
 
 # Upcoming event: "Touch and Proprioception"
 
-Our next Dear Neuroscience event is themed around our senses of touch and proprioception, and will be held on **Friday, 24 May 2019, from noon to 5pm at the [Sainsbury Wellcome Centre for Neural Circuits and Behaviour](https://goo.gl/maps/BtRHagPzAuF2)**. We want to explore questions from YOU and other "folks on the street" about our abilities to not only move, touch, and feel the world around us, but also our ability to know where our body parts are without actively looking at them - for instance, can you clap your hands without *looking at* your hands?
+Our next Dear Neuroscience event is themed around our senses of touch and [proprioception](https://en.wikipedia.org/wiki/Proprioception), and will be held on **Friday, 24 May 2019, from noon to 5pm at the [Sainsbury Wellcome Centre for Neural Circuits and Behaviour](https://goo.gl/maps/BtRHagPzAuF2)**. We want to explore questions from YOU about our abilities to not only move, touch, and feel the world around us, but also our ability to know where our body parts are without actively looking at them - for instance, can you clap your hands without *looking at* your hands?
 
 This event will be a festival-style gathering, with performances, interactive installations, small-group discussions, games, workshops, and more! Feel free to drop in for one or two activities or stay for the whole 5 hours. School groups and families are more than welcome!
 
@@ -56,7 +56,7 @@ We believe that neuroscience research can learn a lot from projects that involve
 Many thanks to the following collaborators who helped bring this concept to life:
 
 | April Cashin-Garbutt | Communications Manager | [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/) |
-| Helen Craig  | Public Engagement Manager | [UCL Culture](https://www.ucl.ac.uk/culture/) |
+| Helen Craig  | Public Engagement Manager, School of Life and Medical Sciences | [UCL Culture](https://www.ucl.ac.uk/culture/) |
 | Goncalo Lopes | Director | [NeuroGears](https://neurogears.org/) |
 | Joana Neto | Post-doctoral Researcher | [CENIMAT](https://www.cenimat.fct.unl.pt/) and [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/) |
 | Lory Calcaterra | PhD Candidate | [Intelligent Systems Lab](http://www.kampff-lab.org/) |
