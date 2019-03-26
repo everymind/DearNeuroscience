@@ -1,0 +1,32 @@
+# main links
+main:
+  - title: "Dear Neuroscience"
+    url: /
+  - title: "Join the conversation!"
+    url: https://forms.gle/u4KBCusofMndqjNa7
+#  - title: "Participate in our events!"
+#    url: https://github.com/everymind/CuttleShuttle-Analysis
+
+# project documentation
+# docs: 
+#  - title: "Introduction"
+#    url: / 
+#    children:
+#      - title: "Eye tracking for Neuroscience"
+#        url: /Eye-tracking/
+#      - title: "Behaviour 'in the wild'"
+#        url: /Behaviour-in-the-wild/
+#        
+#  - title: "Building the Exhibit"
+#    children: 
+#      - title: "Our Scientific Goals"
+#        url: /Science-goals/
+#      - title: "The Interactive Station"
+#        url: /Interactive-station/
+#      - title: "The Software"
+#        url: /Software/
+#        
+
+        
+        
+
