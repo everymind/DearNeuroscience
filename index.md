@@ -3,7 +3,7 @@ layout: single
 author_profile: Danbee Kim
 comments: true
 header:
-  image: /assets/images/WebsiteHeader.png
+  image: /assets/images/DearNeuroscienceHeader.png
 excerpt: "'Dear Neuroscience' is an event series that explores new ways of conducting neuroscience research by bringing together scientists, artists, parents, and children to co-create sensory explorations of neural phenomena 'in the wild'."
 tags:
   - neuroscience research
