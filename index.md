@@ -25,7 +25,7 @@ gallery:
     title: "UCL Culture"
 ---
 
-{% include toc icon="anchor" title="Dear Neuroscience" %}
+{% include toc icon="brain" title="Dear Neuroscience" %}
 
 # Upcoming event: "Touch and Proprioception"
 
