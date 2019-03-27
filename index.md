@@ -57,7 +57,7 @@ We believe that neuroscience research can learn a lot from projects that involve
 
 **If you would like to perform** at "Dear Neuroscience: Touch and Proprioception", [please apply here!](https://forms.gle/kFzrHNKt3CjB2xvD9) **Deadline for applications: May 1, 2019**
 
-**If you would like to host an activity booth** of some other flavour (bring an interactive installation, lead a small-group discussion, etc.) at "Dear Neuroscience: Touch and Proprioception", [please apply here!](https://forms.gle/h2WeZjoKs4fTiPGfA) **Deadline for applications: May 1, 2019**
+**If you would like to host an activity booth** (bring an interactive installation, lead a small-group discussion, conduct a citizen science study, etc.) at "Dear Neuroscience: Touch and Proprioception", [please apply here!](https://forms.gle/h2WeZjoKs4fTiPGfA) **Deadline for applications: May 1, 2019**
 
 # Acknowledgements
 
