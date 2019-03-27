@@ -35,7 +35,7 @@ This event will be held on **Friday, 24 May 2019, from noon to 5pm at the [Sains
 
 This event will be a festival-style gathering, with performances, interactive installations, small-group discussions, games, workshops, and more! Feel free to drop in for one or two activities or stay for the whole 5 hours. School groups and families are more than welcome!
 
-## What is "Dear Neuroscience"?
+# What is "Dear Neuroscience"?
 
 "Dear Neuroscience" is an event series that explores new ways of conducting neuroscience research by **bringing together scientists, artists, teachers, clinicians, parents, and children to co-create sensory explorations of neural phenomena "in the wild"**. We want to ask our audience, "What's something in your daily life that makes you wonder about brains?" 
 
@@ -43,7 +43,7 @@ We believe that neuroscience research can learn a lot from projects that involve
 
 **We hope to access this "beyond the lab" perspective through the Dear Neuroscience events**. A fundamental goal of each event is to generate a list of testable hypotheses which can guide or expand existing research projects, or motivate new research programmes based on well-documented interest and/or robust anecdotal evidence. We also hope to connect potential collaborators who are looking for a **community of researchers eager to engage in broad topics of study that require expertise from a variety of disciplines**. 
 
-## Participate! 
+# Participate! 
 
 **If you would like to submit a question,** inspired by something in your daily life, that makes you wonder about the brain and our senses of touch and proprioception, please submit your question(s) via [this form](https://forms.gle/u4KBCusofMndqjNa7)!
 
@@ -51,7 +51,7 @@ We believe that neuroscience research can learn a lot from projects that involve
 
 **If you would like to host an activity booth** of some other flavour (bring an interactive installation, lead a small-group discussion, etc.) at "Dear Neuroscience: Touch and Proprioception", [please apply here!](https://forms.gle/h2WeZjoKs4fTiPGfA)
 
-## Acknowledgements
+# Acknowledgements
 
 "Dear Neuroscience" was conceptualized and organized by [Danbee Kim](danbeekim.org), PhD candidate in the [International Neuroscience Doctoral Programme](http://www.neuro.fchampalimaud.org/en/education/phd-programme-indp/). 
 
@@ -60,6 +60,7 @@ Many thanks to the following collaborators who helped bring this concept to life
 | April Cashin-Garbutt | Communications Manager | [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/) |
 | Helen Craig  | Public Engagement Manager, School of Life and Medical Sciences | [UCL Culture](https://www.ucl.ac.uk/culture/) |
 | Goncalo Lopes | Director | [NeuroGears](https://neurogears.org/) |
+| Glen Stewart | Director of Training | [National Centre for Circus Arts](https://www.nationalcircus.org.uk/) |
 | Joana Neto | Post-doctoral Researcher | [CENIMAT](https://www.cenimat.fct.unl.pt/) and [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/) |
 | Lory Calcaterra | PhD Candidate | [Intelligent Systems Lab](http://www.kampff-lab.org/) |
 | Adam Kampff  | Principle Investigator | [Intelligent Systems Lab](http://www.kampff-lab.org/) |
