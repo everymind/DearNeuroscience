@@ -11,6 +11,10 @@ tags:
   - neuroscience outreach
   - Dear Neuroscience
 gallery: 
+  - url: http://www.kampff-lab.org/
+    image_path: /assets/images/KampffLab-logo.png
+    alt: "Intelligent Systems Lab"
+    title: "Intelligent Systems Lab" 
   - url: https://www.sainsburywellcome.org/web/
     image_path: /assets/images/SWClogo.png
     alt: "Sainsbury Wellcome Centre for Neural Circuits and Behaviour"
