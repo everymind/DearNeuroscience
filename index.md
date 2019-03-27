@@ -24,7 +24,7 @@ gallery:
     alt: "UCL Culture"
     title: "UCL Culture"
   - url: https://www.nationalcircus.org.uk/
-	image_path: /assets/images/National Centre for Circus Arts black.png
+	image_path: /assets/images/NationalCentreForCircusArtsBlack.png
 	alt: "National Centre for Circus Arts"
 	title: "National Centre for Circus Arts"
 ---
