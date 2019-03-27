@@ -76,7 +76,7 @@ Many thanks to the following collaborators who helped bring this concept to life
 "Dear Neuroscience: Touch and Proprioception" is funded by the [UCL Train and Engage Programme](https://www.ucl.ac.uk/culture/projects/train-and-engage), and supported by the [Intelligent Systems Lab](http://www.kampff-lab.org/) and the [Sainsbury Wellcome Centre for Neural Circuits and Behaviour](https://www.sainsburywellcome.org/web/). 
 
 <a href="https://www.nationalcircus.org.uk/">
-	<img src="/assets/images/NationalCentreForCircusArtsBlack.png" alt="National Centre for Circus Arts" style="width:200px;height:54px;border:0;"> 
+	<img src="/assets/images/NationalCentreForCircusArtsBlack.png" alt="National Centre for Circus Arts" style="width:500px;border:0;"> 
 </a>	
 {% include gallery caption="This project is supported by the above institutions" %}
 
