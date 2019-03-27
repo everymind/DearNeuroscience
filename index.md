@@ -11,6 +11,10 @@ tags:
   - neuroscience outreach
   - Dear Neuroscience
 gallery: 
+  - url: https://www.ucl.ac.uk/culture/
+    image_path: /assets/images/ucl-logo.jpg
+    alt: "UCL Culture"
+    title: "UCL Culture"
   - url: http://www.kampff-lab.org/
     image_path: /assets/images/KampffLab-logo.png
     alt: "Intelligent Systems Lab"
@@ -19,10 +23,6 @@ gallery:
     image_path: /assets/images/SWClogo.png
     alt: "Sainsbury Wellcome Centre for Neural Circuits and Behaviour"
     title: "Sainsbury Wellcome Centre for Neural Circuits and Behaviour"
-  - url: https://www.ucl.ac.uk/culture/
-    image_path: /assets/images/ucl-logo.jpg
-    alt: "UCL Culture"
-    title: "UCL Culture"
 ---
 
 {% include toc icon="brain" title="Dear Neuroscience" %}
