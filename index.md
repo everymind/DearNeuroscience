@@ -59,7 +59,7 @@ Many thanks to the following collaborators who helped bring this concept to life
 
 | April Cashin-Garbutt | Communications Manager | [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/) |
 | Helen Craig  | Public Engagement Manager, School of Life and Medical Sciences | [UCL Culture](https://www.ucl.ac.uk/culture/) |
-| Goncalo Lopes | Director | [NeuroGears](https://neurogears.org/) |
+| Goncalo Lopes | Director | [NeuroGEARS](https://neurogears.org/) |
 | Glen Stewart | Director of Training | [National Centre for Circus Arts](https://www.nationalcircus.org.uk/) |
 | Joana Neto | Post-doctoral Researcher | [CENIMAT](https://www.cenimat.fct.unl.pt/) and [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/) |
 | Lory Calcaterra | PhD Candidate | [Intelligent Systems Lab](http://www.kampff-lab.org/) |
