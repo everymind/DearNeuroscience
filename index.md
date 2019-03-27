@@ -27,7 +27,15 @@ gallery:
 
 {% include toc icon="brain" title="Dear Neuroscience" %}
 
-# Upcoming event: "Touch and Proprioception"
+# Upcoming events
+
+## March 29, 2019: "A Vestibular Circus"
+
+Join us for a mini-event to whet your appetite for "neuroscience in the wild"! Teaching staff from the [National Centre for Circus Arts](https://www.nationalcircus.org.uk/) share how they study and mentor humans who push their vestibular systems to awe-inspiring extremes. We'll discuss some case studies from both the circus world and neuroscience labs, then try out some of the drills and interventions used in the National Centre's student curriculum!
+
+This mini-event will take place at the [Sainsbury Wellcome Centre](https://goo.gl/maps/BtRHagPzAuF2) on **Friday, March 29, 2019, starting at 4:30pm.** 
+
+## May 24, 2019: "Touch and Proprioception"
 
 Our next Dear Neuroscience event is themed around our senses of **touch** and **proprioception**, or **our ability to know where our body parts are without actively looking at them** - for instance, can you clap your hands with your eyes closed? For this event, we are excited to be working closely with physiologists, neurologists, and performance artists, largely enabled by a fantastic collaboration with the [National Centre for Circus Arts](https://www.nationalcircus.org.uk/). 
 
