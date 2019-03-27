@@ -23,13 +23,17 @@ gallery:
     image_path: /assets/images/ucl-logo.jpg
     alt: "UCL Culture"
     title: "UCL Culture"
+  - url: https://www.nationalcircus.org.uk/
+	image_path: /assets/images/National Centre for Circus Arts black.png
+	alt: "National Centre for Circus Arts"
+	title: "National Centre for Circus Arts"
 ---
 
 {% include toc icon="brain" title="Dear Neuroscience" %}
 
 # Upcoming event: "Touch and Proprioception"
 
-Our next Dear Neuroscience event is themed around our senses of **touch** and **proprioception**, or **our ability to know where our body parts are without actively looking at them** - for instance, can you clap your hands with your eyes closed? 
+Our next Dear Neuroscience event is themed around our senses of **touch** and **proprioception**, or **our ability to know where our body parts are without actively looking at them** - for instance, can you clap your hands with your eyes closed? We will explore these senses through the experiences of physiologists, neurologists, and performance artists, largely enabled by a fantastic collaboration with the [National Centre for Circus Arts](https://www.nationalcircus.org.uk/). 
 
 This event will be held on **Friday, 24 May 2019, from noon to 5pm at the [Sainsbury Wellcome Centre for Neural Circuits and Behaviour](https://goo.gl/maps/BtRHagPzAuF2)**. We want to explore questions from YOU about our abilities to not only move, touch, and feel the world around us, but also [to sense our own body's movement and position in the world](https://en.wikipedia.org/wiki/Proprioception).  
 
@@ -37,9 +41,9 @@ This event will be a festival-style gathering, with performances, interactive in
 
 # What is "Dear Neuroscience"?
 
-"Dear Neuroscience" is an event series that explores new ways of conducting neuroscience research by **bringing together scientists, artists, teachers, clinicians, parents, and children to co-create sensory explorations of neural phenomena "in the wild"**. We want to ask our audience, "What's something in your daily life that makes you wonder about brains?" 
+"Dear Neuroscience" is an event series that explores new ways of conducting neuroscience research by **bringing together scientists, artists, teachers, clinicians, parents, and children to co-create sensory explorations of neural phenomena "in the wild"**. We want to ask our audience, "What's something in your daily life that makes you wonder about brains? What are your burning questions for neuroscience? What experiences have you had in the 'real world' that you hope neuroscientists are studying?"
 
-We believe that neuroscience research can learn a lot from projects that involve our audience at all stages of the research process: picking the questions to study, designing the study setup, running the experiment, analysing the results, and discussing our conclusions. Changing our tactics as a neuroscience community in this way allows us to **harness the many intimate and personal experiences with brains that every living person has while trying to navigate a complex and highly interconnected society**. This intuition for how brains work "in the real world" is an enormously valuable perspective that is difficult to access in a traditional neuroscience laboratory. 
+We believe that neuroscience research can learn a lot from projects that involve our audience at all stages of the research process: picking the questions to study, designing the study setup, running the experiment, analysing the results, and discussing our conclusions. Changing our tactics as a neuroscience community in this way allows us to **harness the many direct and personal experiences with brains that every living person has while trying to navigate a complex and highly interconnected society**. This intuition for how brains work "in the real world" is an enormously valuable perspective that is difficult to access in a traditional neuroscience laboratory. 
 
 **We hope to access this "beyond the lab" perspective through the Dear Neuroscience events**. A fundamental goal of each event is to generate a list of testable hypotheses which can guide or expand existing research projects, or motivate new research programmes based on well-documented interest and/or robust anecdotal evidence. We also hope to connect potential collaborators who are looking for a **community of researchers eager to engage in broad topics of study that require expertise from a variety of disciplines**. 
 
