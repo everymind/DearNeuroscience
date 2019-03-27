@@ -15,10 +15,6 @@ gallery:
     image_path: /assets/images/SWClogo.png
     alt: "Sainsbury Wellcome Centre for Neural Circuits and Behaviour"
     title: "Sainsbury Wellcome Centre for Neural Circuits and Behaviour"
-  - url: http://www.kampff-lab.org/
-    image_path: /assets/images/KampffLab-logo.png
-    alt: "Intelligent Systems Lab"
-    title: "Intelligent Systems Lab" 
   - url: https://www.ucl.ac.uk/culture/
     image_path: /assets/images/ucl-logo.jpg
     alt: "UCL Culture"
