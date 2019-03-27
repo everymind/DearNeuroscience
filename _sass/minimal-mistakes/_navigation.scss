@@ -500,7 +500,7 @@
   color: $gray;
   text-transform: uppercase;
   letter-spacing: 1px;
-  background-color: $primary-color;
+  background-color: #d2f3fa;
   border: 1px solid $primary-color;
   border-radius: $border-radius;
   box-shadow: $box-shadow;
@@ -508,7 +508,7 @@
   .nav__title {
     color: #fff;
     font-size: $type-size-6;
-    background: #d2f3fa;
+    background: $primary-color;
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
   }
