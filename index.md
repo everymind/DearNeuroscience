@@ -23,10 +23,6 @@ gallery:
     image_path: /assets/images/ucl-logo.jpg
     alt: "UCL Culture"
     title: "UCL Culture"
-  - url: https://www.nationalcircus.org.uk/
-	image_path: /assets/images/NationalCentreForCircusArtsBlack.png
-	alt: "National Centre for Circus Arts"
-	title: "National Centre for Circus Arts"
 ---
 
 {% include toc icon="brain" title="Dear Neuroscience" %}
