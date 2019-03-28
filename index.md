@@ -43,6 +43,14 @@ This event will be held on **Friday, 24 May 2019, from noon to 5pm at the [Sains
 
 This event will be a festival-style gathering, with performances, interactive installations, small-group discussions, games, workshops, and more! Feel free to drop in for one or two activities or stay for the whole 5 hours - a detailed schedule will be posted here soon. School groups and families are more than welcome!
 
+# Participate! 
+
+**If you would like to submit a question,** inspired by something in your daily life, that makes you wonder about the brain and our senses of touch and proprioception, please submit your question(s) via [this form](https://forms.gle/u4KBCusofMndqjNa7)! Your questions will be used as input to shape and define upcoming Dear Neuroscience events. 
+
+**If you would like to perform** at "Dear Neuroscience: Touch and Proprioception", [please apply here!](https://forms.gle/kFzrHNKt3CjB2xvD9) **Deadline for applications: May 1, 2019**
+
+**If you would like to host an activity booth** (bring an interactive installation, lead a small-group discussion, conduct a citizen science study, etc.) at "Dear Neuroscience: Touch and Proprioception", [please apply here!](https://forms.gle/h2WeZjoKs4fTiPGfA) **Deadline for applications: May 1, 2019**
+
 # What is "Dear Neuroscience"?
 
 "Dear Neuroscience" is an event series that explores new ways of conducting neuroscience research by **bringing together scientists, artists, teachers, clinicians, parents, and children to co-create sensory explorations of neural phenomena "in the wild"**. We want to ask our audience, "What's something in your daily life that makes you wonder about brains? What are your burning questions for neuroscience? What experiences have you had in the 'real world' that you hope neuroscientists are studying?"
@@ -50,14 +58,6 @@ This event will be a festival-style gathering, with performances, interactive in
 We believe that neuroscience research can learn a lot from projects that involve our audience at all stages of the research process: picking the questions to study, designing the study setup, running the experiment, analysing the results, and discussing our conclusions. Changing our tactics as a neuroscience community in this way allows us to **harness the many direct and personal experiences with brains that every living person has while trying to navigate a complex and highly interconnected society**. This intuition for how brains work "in the real world" is an enormously valuable perspective that is difficult to access in a traditional neuroscience laboratory. 
 
 **We hope to access this "beyond the lab" perspective through the Dear Neuroscience events**. A fundamental goal of each event is to generate a list of testable hypotheses which can guide or expand existing research projects, or motivate new research programmes based on well-documented interest and/or robust anecdotal evidence. We also hope to connect potential collaborators who are looking for a **community of researchers eager to engage in broad topics of study that require expertise from a variety of disciplines**. 
-
-# Participate! 
-
-**If you would like to submit a question,** inspired by something in your daily life, that makes you wonder about the brain and our senses of touch and proprioception, please submit your question(s) via [this form](https://forms.gle/u4KBCusofMndqjNa7)!
-
-**If you would like to perform** at "Dear Neuroscience: Touch and Proprioception", [please apply here!](https://forms.gle/kFzrHNKt3CjB2xvD9) **Deadline for applications: May 1, 2019**
-
-**If you would like to host an activity booth** (bring an interactive installation, lead a small-group discussion, conduct a citizen science study, etc.) at "Dear Neuroscience: Touch and Proprioception", [please apply here!](https://forms.gle/h2WeZjoKs4fTiPGfA) **Deadline for applications: May 1, 2019**
 
 # Acknowledgements
 
