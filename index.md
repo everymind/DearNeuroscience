@@ -80,3 +80,7 @@ Many thanks to the following collaborators who helped bring this concept to life
 </a>	
 {% include gallery caption="This project is supported by the above institutions" %}
 
+# Contact Info
+
+Any other questions or comments? [Send us an email!](mailto:everymindonline@protonmail.com)
+
