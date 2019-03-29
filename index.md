@@ -80,7 +80,8 @@ Many thanks to the following collaborators who helped bring this concept to life
 </a>	
 {% include gallery caption="This project is supported by the above institutions" %}
 
-*Header image: from the first Dear Neuroscience event, ["Orchestrating the Brain"](https://www.sainsburywellcome.org/web/public-engagement/orchestrating-brain). Photo credit: Jake Fairnie.*
+*Header image: from the first Dear Neuroscience event, ["Orchestrating the Brain"](https://www.sainsburywellcome.org/web/public-engagement/orchestrating-brain).*  
+*Photo credit: Jake Fairnie.*
 
 # Contact Info
 
