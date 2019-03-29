@@ -37,11 +37,11 @@ This mini-event will take place at the [Sainsbury Wellcome Centre](https://goo.g
 
 ## May 24, 2019: "Touch and Proprioception"
 
-Our next Dear Neuroscience event is themed around our senses of **touch** and **proprioception**, or **our ability to know where our body parts are without actively looking at them** - for instance, can you clap your hands with your eyes closed? For this event, we are excited to be working closely with physiologists, neurologists, and performance artists, largely enabled by a fantastic collaboration with the [National Centre for Circus Arts](https://www.nationalcircus.org.uk/). 
+Our next Dear Neuroscience event is themed around our senses of **touch** and **proprioception**, or **our ability to know where our body parts are without actively looking at them** - for instance, can you clap your hands with your eyes closed? For this event, we are excited to be working closely with physiologists, neurologists, and performance artists, largely enabled by a fantastic collaboration with the [National Centre for Circus Arts](https://www.nationalcircus.org.uk/). Other collaborators include [NeuroGEARS](https://neurogears.org/) and researchers from the [MA Art and Science course at University Arts London](https://www.arts.ac.uk/subjects/fine-art/postgraduate/ma-art-and-science-csm). 
 
 This event will be held on **Friday, 24 May 2019, from noon to 5pm at the [Sainsbury Wellcome Centre for Neural Circuits and Behaviour](https://goo.gl/maps/BtRHagPzAuF2)**. We want to explore questions from YOU about our abilities to not only move, touch, and feel the world around us, but also [to sense our own body's movement and position in the world](https://en.wikipedia.org/wiki/Proprioception).  
 
-This event will be a festival-style gathering, with performances, interactive installations, small-group discussions, games, workshops, and more! Feel free to drop in for one or two activities or stay for the whole 5 hours - a detailed schedule will be posted here soon. School groups and families are more than welcome!
+This event will be a festival-style gathering, with performances, interactive installations, small-group discussions, games, workshops, and more! Feel free to drop in for one or two activities or stay for the whole 5 hours - **a detailed schedule will be posted here soon. School groups and families are more than welcome!**
 
 # Participate! 
 
