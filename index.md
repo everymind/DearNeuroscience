@@ -47,9 +47,9 @@ This event will be a festival-style gathering, with performances, interactive in
 
 **If you would like to submit a question,** inspired by something in your daily life, that makes you wonder about the brain and our senses of touch and proprioception, please submit your question(s) via [this form](https://forms.gle/u4KBCusofMndqjNa7)! Your questions will be used as input to shape and define upcoming Dear Neuroscience events. 
 
-**If you would like to perform** at "Dear Neuroscience: Touch and Proprioception", [please apply here!](https://forms.gle/kFzrHNKt3CjB2xvD9) **Deadline for applications: May 1, 2019**
+**If you would like to perform** at "Dear Neuroscience: Touch and Proprioception", [please apply here!](https://forms.gle/kFzrHNKt3CjB2xvD9) **Deadline for applications: May 12, 2019**
 
-**If you would like to host an activity booth** (bring an interactive installation, lead a small-group discussion, conduct a citizen science study, etc.) at "Dear Neuroscience: Touch and Proprioception", [please apply here!](https://forms.gle/h2WeZjoKs4fTiPGfA) **Deadline for applications: May 1, 2019**
+**If you would like to host an activity booth** (bring an interactive installation, lead a small-group discussion, conduct a citizen science study, etc.) at "Dear Neuroscience: Touch and Proprioception", [please apply here!](https://forms.gle/h2WeZjoKs4fTiPGfA) **Deadline for applications: May 12, 2019**
 
 # What is "Dear Neuroscience"?
 
