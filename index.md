@@ -33,9 +33,36 @@ gallery:
 
 Our next Dear Neuroscience event is themed around our senses of **touch** and **proprioception**, or **our ability to know where our body parts are without actively looking at them** - for instance, can you clap your hands with your eyes closed? For this event, we are excited to be working closely with physiologists, neurologists, and performance artists, largely enabled by a fantastic collaboration with the [National Centre for Circus Arts](https://www.nationalcircus.org.uk/). Other collaborators include [NeuroGEARS](https://neurogears.org/) and researchers from the [MA Art and Science course at University Arts London](https://www.arts.ac.uk/subjects/fine-art/postgraduate/ma-art-and-science-csm). 
 
-This event will be held on **Friday, 24 May 2019, from noon to 5pm at the [Sainsbury Wellcome Centre for Neural Circuits and Behaviour](https://goo.gl/maps/BtRHagPzAuF2)**. We want to explore questions from YOU about our abilities to not only move, touch, and feel the world around us, but also [to sense our own body's movement and position in the world](https://en.wikipedia.org/wiki/Proprioception).  
+This event will be held on **Friday, 24 May 2019, from noon to 5pm at the [Sainsbury Wellcome Centre for Neural Circuits and Behaviour](https://goo.gl/maps/BtRHagPzAuF2)**. We want to explore questions from YOU about our abilities to not only move, touch, and feel the world around us, but also [to sense our own body's movement and position in the world](https://en.wikipedia.org/wiki/Proprioception). **PLEASE COME DRESSED FOR MOVEMENT**, as many of our workshops involve active participation and movement. 
 
-This event will be a festival-style gathering, with performances, interactive installations, small-group discussions, games, workshops, and more! Feel free to drop in for one or two activities or stay for the whole 5 hours - **a detailed schedule will be posted here soon. School groups and families are more than welcome!**
+**EVENT SCHEDULE**
+
+**12:00 PM**  
+Performance - *"Overstanding Upside-down: preparing for a future both on and off planet Earth"*  
+Featuring James McCambridge and Sammy Dinneen
+
+**12:30 PM**  
+Workshops - *"Our mental models of our bodies and self"*  
+ * "Training the Body's Mind" by Chrysanthi Avloniti, Maritina Keleri, and Anna Kritikou  
+ * "Studying Balance on a Tightwire" by James McCambridge and Glen Stewart  
+ * "Development of Posture and Our Mental Model of Our Own Bodies" by Jose M. Sanz Mengibar
+
+**2:30 PM**  
+Performance - *"Reaching Beyond the Body: extending our minds into our tools and spaces"*  
+Featuring Paul Miles, Gabriel Tansley, and Peter Williamson
+
+**3:00 PM**  
+Workshops - *"The human use of tools, props, and space"*  
+ * "How vision affects prop-manipulation skills" by Jules Cooke
+ * "An allocentric VR experiment" by Fiona Barakat, Alex Whitley, and Michael  
+ * "Architectural model-making" by Paul Miles and Gabriel Tansley  
+ * "Hang out with a blacksmith and his tools" by Peter Williamson  
+ * "How juggling can improve your range of motion" by James McCambridge, Jamie Moore, and Glen Stewart  
+ 
+**5:00 PM**
+Closing and Acknowledgements
+
+This event will be a festival-style gathering, with performances, interactive installations, small-group discussions, games, workshops, and more! Feel free to drop in for one or two activities or stay for the whole 5 hours. **School groups and families are more than welcome!**
 
 # Participate! 
 
