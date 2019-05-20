@@ -68,10 +68,6 @@ This event will be a festival-style gathering, with performances, interactive in
 
 **If you would like to submit a question,** inspired by something in your daily life, that makes you wonder about the brain and our senses of touch and proprioception, please submit your question(s) via [this form](https://forms.gle/u4KBCusofMndqjNa7)! Your questions will be used as input to shape and define upcoming Dear Neuroscience events. 
 
-**If you would like to perform** at "Dear Neuroscience: Touch and Proprioception", [please apply here!](https://forms.gle/kFzrHNKt3CjB2xvD9) **Deadline for applications: May 12, 2019**
-
-**If you would like to host an activity booth** (bring an interactive installation, lead a small-group discussion, conduct a citizen science study, etc.) at "Dear Neuroscience: Touch and Proprioception", [please apply here!](https://forms.gle/h2WeZjoKs4fTiPGfA) **Deadline for applications: May 12, 2019**
-
 # What is "Dear Neuroscience"?
 
 "Dear Neuroscience" is an event series that explores new ways of conducting neuroscience research by **bringing together scientists, artists, teachers, clinicians, parents, and children to co-create sensory explorations of neural phenomena "in the wild"**. We want to ask our audience, "What's something in your daily life that makes you wonder about brains? What are your burning questions for neuroscience? What experiences have you had in the 'real world' that you hope neuroscientists are studying?"
