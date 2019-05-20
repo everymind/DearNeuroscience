@@ -27,15 +27,15 @@ gallery:
 
 {% include toc icon="brain" title="Dear Neuroscience" %}
 
-# Upcoming events
-
-## May 24, 2019: "Touch and Proprioception"
+# Upcoming event on May 24, 2019: "Touch and Proprioception"
 
 Our next Dear Neuroscience event is themed around our senses of **touch** and **proprioception**, or **our ability to know where our body parts are without actively looking at them** - for instance, can you clap your hands with your eyes closed? For this event, we are excited to be working closely with physiologists, neurologists, and performance artists, largely enabled by a fantastic collaboration with the [National Centre for Circus Arts](https://www.nationalcircus.org.uk/). Other collaborators include [NeuroGEARS](https://neurogears.org/) and researchers from the [MA Art and Science course at University Arts London](https://www.arts.ac.uk/subjects/fine-art/postgraduate/ma-art-and-science-csm). 
 
-This event will be held on **Friday, 24 May 2019, from noon to 5pm at the [Sainsbury Wellcome Centre for Neural Circuits and Behaviour](https://goo.gl/maps/BtRHagPzAuF2)**. We want to explore questions from YOU about our abilities to not only move, touch, and feel the world around us, but also [to sense our own body's movement and position in the world](https://en.wikipedia.org/wiki/Proprioception). **PLEASE COME DRESSED FOR MOVEMENT**, as many of our workshops involve active participation and movement. 
+This event will be held on **Friday, 24 May 2019, from noon to 5pm at the [Sainsbury Wellcome Centre for Neural Circuits and Behaviour](https://goo.gl/maps/BtRHagPzAuF2)**. We want to explore questions from YOU about our abilities to not only move, touch, and feel the world around us, but also [to sense our own body's movement and position in the world](https://en.wikipedia.org/wiki/Proprioception). 
 
-**EVENT SCHEDULE**
+Note: **PLEASE COME DRESSED FOR MOVEMENT**, as many of our workshops involve active participation and movement. 
+
+## EVENT SCHEDULE
 
 **12:00 PM**  
 Performance - *"Overstanding Upside-down: preparing for a future both on and off planet Earth"*  
@@ -48,11 +48,11 @@ Workshops - *"Our mental models of our bodies and self"*
  * "Development of Posture and Our Mental Model of Our Own Bodies" by Jose M. Sanz Mengibar
 
 **2:30 PM**  
-Performance - *"Reaching Beyond the Body: extending our minds into our tools and spaces"*  
+Performance - *"Reaching Beyond the Body: feeling through objects"*  
 Featuring Paul Miles, Gabriel Tansley, and Peter Williamson
 
 **3:00 PM**  
-Workshops - *"The human use of tools, props, and space"*  
+Workshops - *"Extending our mental models into tools, props, and spaces"*  
  * "How vision affects prop-manipulation skills" by Jules Cooke
  * "An allocentric VR experiment" by Fiona Barakat, Alex Whitley, and Michael  
  * "Architectural model-making" by Paul Miles and Gabriel Tansley  
