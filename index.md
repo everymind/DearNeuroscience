@@ -59,7 +59,7 @@ Workshops - *"Extending our mental models into tools, props, and spaces"*
  * "Hang out with a blacksmith and his tools" by Peter Williamson  
  * "How juggling can improve your range of motion" by James McCambridge, Jamie Moore, and Glen Stewart  
  
-**5:00 PM**
+**5:00 PM**  
 Closing and Acknowledgements
 
 This event will be a festival-style gathering, with performances, interactive installations, small-group discussions, games, workshops, and more! Feel free to drop in for one or two activities or stay for the whole 5 hours. **School groups and families are more than welcome!**
