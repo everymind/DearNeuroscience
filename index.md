@@ -88,6 +88,7 @@ Many thanks to the following collaborators who helped bring this concept to life
 | Glen Stewart | Director of Training | [National Centre for Circus Arts](https://www.nationalcircus.org.uk/) |
 | Joana Neto | Post-doctoral Researcher | [CENIMAT](https://www.cenimat.fct.unl.pt/) and [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/) |
 | Lory Calcaterra | PhD Candidate | [Intelligent Systems Lab](http://www.kampff-lab.org/) |
+| Lois Bentley, Maritina Keleri, Rose Mengmei Zhou | Postgraduate Researchers, [Class of 2019 MA Art and Science](https://www.artsciencecsm.com/work/class-of-2019/) | University Arts London, Central Saint Martins |
 | Adam Kampff  | Principle Investigator | [Intelligent Systems Lab](http://www.kampff-lab.org/) |
 
 "Dear Neuroscience: Touch and Proprioception" is funded by the [UCL Train and Engage Programme](https://www.ucl.ac.uk/culture/projects/train-and-engage), and supported by the [Intelligent Systems Lab](http://www.kampff-lab.org/) and the [Sainsbury Wellcome Centre for Neural Circuits and Behaviour](https://www.sainsburywellcome.org/web/). 
