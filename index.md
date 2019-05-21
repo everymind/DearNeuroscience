@@ -33,7 +33,7 @@ Our next Dear Neuroscience event is themed around our senses of **touch** and **
 
 This event will be held on **Friday, 24 May 2019, from noon to 5pm at the [Sainsbury Wellcome Centre for Neural Circuits and Behaviour](https://goo.gl/maps/BtRHagPzAuF2)**. We want to explore questions from YOU about our abilities to not only move, touch, and feel the world around us, but also [to sense our own body's movement and position in the world](https://en.wikipedia.org/wiki/Proprioception). 
 
-Note: **PLEASE COME DRESSED FOR MOVEMENT**, as many of our workshops involve active participation and movement. 
+Note: **PLEASE COME DRESSED FOR MOVEMENT**, as many of our workshops involve active participation and movement.
 
 ## EVENT SCHEDULE
 
@@ -54,7 +54,7 @@ Featuring Paul Miles, Gabriel Tansley, and Peter Williamson
 **3:00 PM**  
 Workshops - *"Extending our mental models into tools, props, and spaces"*  
  * "How vision affects prop-manipulation skills" by Jules Cooke
- * "An allocentric VR experiment" by Fiona Barakat, Alex Whitley, and Michael  
+ * "An Allocentric view of movement: perspectival shifts in VR" by Michael Wagner, Alex Whitley, and Fiona Zisch  
  * "Architectural model-making" by Paul Miles and Gabriel Tansley  
  * "Hang out with a blacksmith and his tools" by Peter Williamson  
  * "How juggling can improve your range of motion" by James McCambridge, Jamie Moore, and Glen Stewart  
