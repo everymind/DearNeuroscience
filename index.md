@@ -64,6 +64,16 @@ Closing and Acknowledgements
 
 This event will be a festival-style gathering, with performances, interactive installations, small-group discussions, games, workshops, and more! Feel free to drop in for one or two activities or stay for the whole 5 hours. **School groups and families are more than welcome!**
 
+## Accessibility and Inclusion at our event
+
+This event will be held on the ground floor and there is step-free access to the event space. While most of the event involves moving and standing, we also have chairs available for those who are not able to stand for long periods of time.
+
+The event space itself is a large lecture theater, with flourescent lighting and high ceilings. Two of the walls in this space are floor-to-ceiling windows, one which faces out towards the street, and another which faces our front reception area. Please note that the temperature in this lecture theater is often colder than most other spaces in our building, so if you are prone to feeling cold please bring an extra layer. Public toilets are also on the ground floor, just across the front reception lobby from the lecture theater.
+
+None of the performances or workshops will be using flashing/strobing lights, nor do we plan to have any sudden, loud noises. Background music for performances and workshops may be played on small portable speakers. Event attendees are also welcome to arrive 15-20 minutes early, if you would prefer to get settled into the event space before it gets crowded. 
+
+If you have any additional concerns or questions, please get in touch by emailing [everymindonline@protonmail.com](mailto:everymindonline@protonmail.com). 
+
 # Participate! 
 
 **If you would like to submit a question,** inspired by something in your daily life, that makes you wonder about the brain and our senses of touch and proprioception, please submit your question(s) via [this form](https://forms.gle/u4KBCusofMndqjNa7)! Your questions will be used as input to shape and define upcoming Dear Neuroscience events. 
