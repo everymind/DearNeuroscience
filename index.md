@@ -74,6 +74,54 @@ None of the performances or workshops will be using flashing/strobing lights, no
 
 If you have any additional concerns or questions, please get in touch by emailing [everymindonline@protonmail.com](mailto:everymindonline@protonmail.com). 
 
+## Event references
+
+### [1984: Spatial Orientation in Weightlessness and Readaptation to Earth's Gravity](https://github.com/everymind/DearNeuroscience/blob/gh-pages/assets/papers/1984_SpatialOrientationInWeightlessnessAndReadaptationToEarthsGravity_LRYoung-CMOman-DGDWatt-KEMoney-BKLichtenberg.pdf)
+
+"A novel set of sensory cues is produced by head movements in weightlessness."  
+*By Laurence R. Young, Charles M. Oman, Douglas G. D. Watt, Kenneth E. Money, and Byron K. Lichtenberg*
+
+### [2000: When Far Becomes Near: Remapping of Space by Tool Use](https://github.com/everymind/DearNeuroscience/blob/gh-pages/assets/papers/2000_WhenFarBecomesNear-RemappingOfSpaceByToolUse_ABerti-FFrassinetti.pdf)
+
+"An artificial extension of the patient's body (the stick) caused a remapping of far space as near space."  
+*By Anna Berti*
+
+### [2001: Development of the Gravity Sensing System](https://github.com/everymind/DearNeuroscience/blob/gh-pages/assets/papers/2001_DevelopmentOfTheGravitySensingSystem_KDPeusner.pdf)
+
+"Only in the otolithic gravitational pathway has it been impossible to investigate the role of sensory deprivation, because there is no simple way to deprive the system of gravitational stimulation on Earth."
+*By Kenna D. Peusner*
+
+### [2004: The neural bases of complex tool use in humans](https://github.com/everymind/DearNeuroscience/blob/gh-pages/assets/papers/2004_NeuralBasesOfComplexToolUseInHumans_SHJohnsonFrey.pdf) 
+
+"Until very recently, our understanding of the brain mechanisms involved in representing complex tools and
+their usage came exclusively from studies of brain-injured patients suffering from apraxia – a disorder of learned, voluntary actions, or *skills*."  
+*By Scott H. Johnson-Frey
+
+### [2004: The body schema and multisensory representation(s) of peripersonal space](https://github.com/everymind/DearNeuroscience/blob/gh-pages/assets/papers/2004_TheBodySchemaAndMultisensoryRepresentationsOfPeripersonalSpace_NPHolmes-CSpence.pdf)
+
+"Peripersonal space is defined as the space immediately surrounding our bodies. Objects within peripersonal space can be grasped and manipulated; objects located beyond this space (in what is often termed ‘extrapersonal space’) cannot normally be reached without moving toward them, or else their movement toward us."  
+*By Nicholas P. Holmes and Charles Spence*
+
+### [2012: When Up Is Down in 0g: How Gravity Sensing Affects the Timing of Interceptive Actions](https://github.com/everymind/DearNeuroscience/blob/gh-pages/assets/papers/2012_HowGravitySensingAffectsTimingOfInterceptiveActions_PSenot-MZago-ALSeach-MZaoui-ABerthoz-FLacquaniti-JMcIntyre.pdf)
+
+"The unloading of the otoliths and other graviceptors when passing from hypergravity to 0g might therefore be sensed as negative gravity, i.e., a gravitational pull in the upward direction."
+*By Patrice Senot, Myrka Zago, Anne Le Se´ac’h, Mohammed Zaoui, Alain Berthoz, Francesco Lacquaniti, and Joseph McIntyre*
+
+### [2014: The development of vestibular system and related functions in mammals: impact of gravity](https://github.com/everymind/DearNeuroscience/blob/gh-pages/assets/papers/2014_DevelopmentOfVestibularSystemAndRelatedFunctionsInMammals-ImpactOfGravity_MJamon.pdf)
+
+"The rapid acquisition of motor programming by precocial mammals in minutes after birth is consistent with this hypothesis, but the slow development of motor skills in altricial species and the plasticity of vestibular perception in adults suggest that gravity experience is required for the tuning of graviceptors."  
+*By Marc Jamon*
+
+### [2014: Neuronal bases of peripersonal and extrapersonal spaces, their plasticity and their dynamics: knowns and unknowns](https://github.com/everymind/DearNeuroscience/blob/gh-pages/assets/papers/2014_NeuronalBasesOfPeripersonalAndExtrapersonalSpacesTheirPlasticityAndTheirDynamics_JClery-OGuipponi-CWardak-SBHamed.pdf)
+
+"In other words, this network is proposed to sub-serve the representation and protection of near peripersonal space or safety margin around the body, with a specific emphasis on two vulnerable body parts, the head and the arm/hand unit."  
+*By Justine Cléry, Olivier Guipponi, Claire Wardak and Suliann Ben Hamed* 
+
+### [2015: Peripersonal space in the brain](https://github.com/everymind/DearNeuroscience/blob/gh-pages/assets/papers/2015_PeripersonalSpaceInTheBrain_GdPellegrino-ELadavas.pdf)
+
+"These studies reveal how the brain links somatosensory information from our body to visual and auditory signals arising from objects in the space immediately around our body, using a bodypart-centered frame of reference, within a network of highly interconnected frontal and parietal regions that participate in the control of movements. While most studies on PPS (peri-personal space) have ignored social information and typically used non-biological stimuli in a neutral environment, there is currently great interest in understanding the mechanisms and neural underpinnings of how the presence of others affect our representation of the space around us."  
+*By Giuseppe di Pellegrino and Elisabetta Làdavas*
+
 # Participate! 
 
 **If you would like to submit a question,** inspired by something in your daily life, that makes you wonder about the brain and our senses of touch and proprioception, please submit your question(s) via [this form](https://forms.gle/u4KBCusofMndqjNa7)! Your questions will be used as input to shape and define upcoming Dear Neuroscience events. 
