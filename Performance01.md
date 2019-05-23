@@ -30,3 +30,5 @@ certain patterns established during development.
 vestibular nuclei: https://en.wikipedia.org/wiki/Vestibular_nuclei
 
 Otoliths: https://en.wikipedia.org/wiki/Otolith
+
+gravity affects our perception of time: https://www.nasa.gov/mission_pages/station/research/experiments/explorer/Investigation.html?#id=7504
