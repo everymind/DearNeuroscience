@@ -119,3 +119,25 @@ _By Justine Cléry, Olivier Guipponi, Claire Wardak and Suliann Ben Hamed_
 
 "These studies reveal how the brain links somatosensory information from our body to visual and auditory signals arising from objects in the space immediately around our body, using a bodypart-centered frame of reference, within a network of highly interconnected frontal and parietal regions that participate in the control of movements. While most studies on PPS (peri-personal space) have ignored social information and typically used non-biological stimuli in a neutral environment, there is currently great interest in understanding the mechanisms and neural underpinnings of how the presence of others affect our representation of the space around us."  
 _By Giuseppe di Pellegrino and Elisabetta Làdavas_
+
+# Acknowledgements
+
+"Dear Neuroscience" was conceptualized and organized by [Danbee Kim](danbeekim.org), PhD candidate in the [International Neuroscience Doctoral Programme](http://www.neuro.fchampalimaud.org/en/education/phd-programme-indp/).
+
+Many thanks to the following collaborators who helped bring this concept to life:
+
+| April Cashin-Garbutt | Communications Manager | [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/) |
+| Helen Craig | Public Engagement Manager, School of Life and Medical Sciences | [UCL Culture](https://www.ucl.ac.uk/culture/) |
+| Goncalo Lopes | Director | [NeuroGEARS](https://neurogears.org/) |
+| Glen Stewart | Director of Training | [National Centre for Circus Arts](https://www.nationalcircus.org.uk/) |
+| Joana Neto | Post-doctoral Researcher | [CENIMAT](https://www.cenimat.fct.unl.pt/) and [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/) |
+| Lory Calcaterra | PhD Candidate | [Intelligent Systems Lab](http://www.kampff-lab.org/) |
+| Lois Bentley, Maritina Keleri, Rose Mengmei Zhou | Postgraduate Researchers, [Class of 2019 MA Art and Science](https://www.artsciencecsm.com/work/class-of-2019/) | University Arts London, Central Saint Martins |
+| Adam Kampff | Principle Investigator | [Intelligent Systems Lab](http://www.kampff-lab.org/) |
+
+"Dear Neuroscience: Touch and Proprioception" is funded by the [UCL Train and Engage Programme](https://www.ucl.ac.uk/culture/projects/train-and-engage), and supported by the [Intelligent Systems Lab](http://www.kampff-lab.org/) and the [Sainsbury Wellcome Centre for Neural Circuits and Behaviour](https://www.sainsburywellcome.org/web/).
+
+<a href="https://www.nationalcircus.org.uk/">
+	<img src="/assets/images/NCCA.png" alt="National Centre for Circus Arts"> 
+</a>	
+{% include gallery caption="This project is supported by the above institutions" %}
