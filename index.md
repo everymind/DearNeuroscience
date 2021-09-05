@@ -37,7 +37,7 @@ We believe that neuroscience research can learn a lot from projects that involve
 
 ## Recent Events
 
-Check out our most recent Dear Neuroscience event: ["Touch and Proprioception"](/TouchProprioception/)
+Check out our most recent Dear Neuroscience event: ["Touch and Proprioception"](/DearNeuroscience/TouchProprioception/)
 
 # Participate!
 
