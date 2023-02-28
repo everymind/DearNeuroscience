@@ -4,6 +4,8 @@ main:
     url: /
   - title: "Ask a question!"
     url: https://forms.gle/u4KBCusofMndqjNa7
+  - title: Neuroscience Primer
+    url: /neuro-primer/
 #  - title: "Participate in our events!"
 #    url: https://github.com/everymind/CuttleShuttle-Analysis
 
